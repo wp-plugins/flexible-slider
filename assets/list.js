@@ -1,0 +1,1 @@
+jQuery(document).ready(function(b){var a;b("#dialog-confirm").dialog({autoOpen:false,resizable:false,maxHeight:190,draggable:false,modal:true,buttons:{"Delete slider":function(){window.location.href=a.attr("href")+"&msg=1"},Cancel:function(){b(this).dialog("close")}}});b(".fslider-delete").click(function(c){c.preventDefault();a=b(this);b("#dialog-confirm").dialog("open")})});
