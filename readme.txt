@@ -14,6 +14,8 @@ A jquery responsive touch-enabled slider for Wordpress from YouPick
 
 Flexible slider is a responsive and touch-enabled image slider and it is available as a WordPress plugin. Please take a look at it in your mobile device or try to re-size your browser to see the effect.
 
+Demo webiste: http://youpick.biz
+
 - Touch navigation for mobile and desktop.
 - SEO optimized.
 - Responsive layout down to mobile.
@@ -22,7 +24,7 @@ Flexible slider is a responsive and touch-enabled image slider and it is availab
 - Slider files are included only to posts where slider is used.
 - Smart autoplay.
 - Permalinks that allows linking to any slide from URL
-- Optional keyboard navigation and much more…
+- Optional keyboard navigation and much more
 
 == Installation ==
 
